@@ -1,0 +1,261 @@
+  Dog. Are you good men and true?
+  Dog. Nay, that were a punishment too good for them if they should
+    have any allegiance in them, being chosen for the Prince's watch.
+  Dog. First, who think you the most desartless man to be constable?
+  1. Watch. Hugh Oatcake, sir, or George Seacoal; for they can write
+    and read.
+  Dog. Come hither, neighbour Seacoal. God hath bless'd you with a
+    good name. To be a well-favoured man is the gift of fortune, but
+    to write and read comes by nature.
+  2. Watch. Both which, Master Constable--
+  Dog. You have. I knew it would be your answer. Well, for your
+    favour, sir, why, give God thanks and make no boast of it; and
+    for your writing and reading, let that appear when there is no
+    need of such vanity. You are thought here to be the most  
+    senseless and fit man for the constable of the watch. Therefore
+    bear you the lanthorn. This is your charge: you shall comprehend
+    all vagrom men; you are to bid any man stand, in the Prince's
+    name.
+  2. Watch. How if 'a will not stand?
+  Dog. Why then, take no note of him, but let him go, and presently
+    call the rest of the watch together and thank God you are rid of
+    a knave.
+  Dog. Come hither, neighbour Seacoal. God hath bless'd you with a
+    good name. To be a well-favoured man is the gift of fortune, but
+    to write and read comes by nature.
+  2. Watch. Both which, Master Constable--
+  Dog. You have. I knew it would be your answer. Well, for your
+    favour, sir, why, give God thanks and make no boast of it; and
+    for your writing and reading, let that appear when there is no
+    need of such vanity. You are thought here to be the most  
+    senseless and fit man for the constable of the watch. Therefore
+    bear you the lanthorn. This is your charge: you shall comprehend
+    all vagrom men; you are to bid any man stand, in the Prince's
+    name.
+  2. Watch. How if 'a will not stand?
+  Dog. Why then, take no note of him, but let him go, and presently
+    call the rest of the watch together and thank God you are rid of
+    a knave.
+  Dog. You have. I knew it would be your answer. Well, for your
+    favour, sir, why, give God thanks and make no boast of it; and
+    for your writing and reading, let that appear when there is no
+    need of such vanity. You are thought here to be the most  
+    senseless and fit man for the constable of the watch. Therefore
+    bear you the lanthorn. This is your charge: you shall comprehend
+    all vagrom men; you are to bid any man stand, in the Prince's
+    name.
+  2. Watch. How if 'a will not stand?
+  Dog. Why then, take no note of him, but let him go, and presently
+    call the rest of the watch together and thank God you are rid of
+    a knave.
+  Dog. Why then, take no note of him, but let him go, and presently
+    call the rest of the watch together and thank God you are rid of
+    a knave.
+  Dog. True, and they are to meddle with none but the Prince's
+    subjects. You shall also make no noise in the streets; for for
+    the watch to babble and to talk is most tolerable, and not to be
+    endured.
+  2. Watch. We will rather sleep than talk. We know what belongs to
+    a watch.
+  Dog. Why, you speak like an ancient and most quiet watchman, for I
+    cannot see how sleeping should offend. Only have a care that your
+    bills be not stol'n. Well, you are to call at all the alehouses
+    and bid those that are drunk get them to bed.  
+  2. Watch. How if they will not?
+  Dog. Why then, let them alone till they are sober. If they make you
+    not then the better answer, You may say they are not the men you
+    took them for.
+  2. Watch. Well, sir.
+  Dog. If you meet a thief, you may suspect him, by virtue of your
+    office, to be no true man; and for such kind of men, the less you
+    meddle or make with them, why, the more your honesty.
+  2. Watch. If we know him to be a thief, shall we not lay hands on
+    him?
+  Dog. Truly, by your office you may; but I think they that touch
+    pitch will be defil'd. The most peaceable way for you, if you do
+    take a thief, is to let him show himself what he is, and steal
+    out of your company.
+  Dog. Why, you speak like an ancient and most quiet watchman, for I
+    cannot see how sleeping should offend. Only have a care that your
+    bills be not stol'n. Well, you are to call at all the alehouses
+    and bid those that are drunk get them to bed.  
+  2. Watch. How if they will not?
+  Dog. Why then, let them alone till they are sober. If they make you
+    not then the better answer, You may say they are not the men you
+    took them for.
+  2. Watch. Well, sir.
+  Dog. If you meet a thief, you may suspect him, by virtue of your
+    office, to be no true man; and for such kind of men, the less you
+    meddle or make with them, why, the more your honesty.
+  2. Watch. If we know him to be a thief, shall we not lay hands on
+    him?
+  Dog. Truly, by your office you may; but I think they that touch
+    pitch will be defil'd. The most peaceable way for you, if you do
+    take a thief, is to let him show himself what he is, and steal
+    out of your company.
+  Dog. Why then, let them alone till they are sober. If they make you
+    not then the better answer, You may say they are not the men you
+    took them for.
+  2. Watch. Well, sir.
+  Dog. If you meet a thief, you may suspect him, by virtue of your
+    office, to be no true man; and for such kind of men, the less you
+    meddle or make with them, why, the more your honesty.
+  2. Watch. If we know him to be a thief, shall we not lay hands on
+    him?
+  Dog. Truly, by your office you may; but I think they that touch
+    pitch will be defil'd. The most peaceable way for you, if you do
+    take a thief, is to let him show himself what he is, and steal
+    out of your company.
+  Dog. If you meet a thief, you may suspect him, by virtue of your
+    office, to be no true man; and for such kind of men, the less you
+    meddle or make with them, why, the more your honesty.
+  2. Watch. If we know him to be a thief, shall we not lay hands on
+    him?
+  Dog. Truly, by your office you may; but I think they that touch
+    pitch will be defil'd. The most peaceable way for you, if you do
+    take a thief, is to let him show himself what he is, and steal
+    out of your company.
+  Dog. Truly, by your office you may; but I think they that touch
+    pitch will be defil'd. The most peaceable way for you, if you do
+    take a thief, is to let him show himself what he is, and steal
+    out of your company.
+  Dog. Truly, I would not hang a dog by my will, much more a man who
+    hath any honesty in him.
+  Dog. Why then, depart in peace and let the child wake her with
+    crying; for the ewe that will not hear her lamb when it baes will
+    never answer a calf when he bleats.
+  Dog. This is the end of the charge: you, constable, are to present
+    the Prince's own person. If you meet the Prince in the night,
+    you may stay him.
+  Dog. Five shillings to one on't with any man that knows the
+    statutes, he may stay him! Marry, not without the Prince be
+    willing; for indeed the watch ought to offend no man, and it is
+    an offence to stay a man against his will.
+  Dog. Ha, ah, ha! Well, masters, good night. An there be any matter
+    of weight chances, call up me. Keep your fellows' counsels and
+    your own, and good night. Come, neighbour.
+  2. Watch. Well, masters, we hear our charge. Let us go sit here
+    upon the church bench till two, and then all to bed.
+  Dog. One word more, honest neighbours. I pray you watch about
+    Signior Leonato's door; for the wedding being there tomorrow,  
+    there is a great coil to-night. Adieu. Be vigitant, I beseech
+    you.                           Exeunt [Dogberry and Verges].
+                     Enter Borachio and Conrade.
+  Dog. One word more, honest neighbours. I pray you watch about
+    Signior Leonato's door; for the wedding being there tomorrow,  
+    there is a great coil to-night. Adieu. Be vigitant, I beseech
+    you.                           Exeunt [Dogberry and Verges].
+                     Enter Borachio and Conrade.
+  Dog. Marry, sir, I would have some confidence with you that decerns
+    you nearly.
+  Dog. Marry, this it is, sir.
+  Dog. Goodman Verges, sir, speaks a little off the matter--an old
+    man, sir, and his wits are not so blunt as, God help, I would
+    desire they were; but, in faith, honest as the skin between his
+    brows.
+  Dog. Comparisons are odorous. Palabras, neighbour Verges.
+  Dog. It pleases your worship to say so, but we are the poor Duke's  
+    officers; but truly, for mine own part, if I were as tedious as a
+    king, I could find in my heart to bestow it all of your worship.
+  Dog. Yea, in 'twere a thousand pound more than 'tis; for I hear as
+    good exclamation on your worship as of any man in the city; and
+    though I be but a poor man, I am glad to hear it.
+  Dog. A good old man, sir; he will be talking. As they say, 'When
+    the age is in, the wit is out.' God help us! it is a world to
+    see! Well said, i' faith, neighbour Verges. Well, God's a good
+    man. An two men ride of a horse, one must ride behind. An honest
+    soul, i' faith, sir, by my troth he is, as ever broke bread; but
+    God is to be worshipp'd; all men are not alike, alas, good
+    neighbour!
+  Dog. Gifts that God gives.  
+  Dog. One word, sir. Our watch, sir, have indeed comprehended two
+    aspicious persons, and we would have them this morning examined
+    before your worship.
+  Dog. It shall be suffigance.
+  Dog. Go, good partner, go get you to Francis Seacoal; bid him bring
+    his pen and inkhorn to the jail. We are now to examination these
+    men.
+  Dog. We will spare for no wit, I warrant you. Here's that shall  
+    drive some of them to a non-come. Only get the learned writer to
+    set down our excommunication, and meet me at the jail.
+                                                       [Exeunt.]
+ACT IV. Scene I.
+A church.
+Enter Don Pedro, [John the] Bastard, Leonato, Friar [Francis], Claudio,
+Benedick, Hero, Beatrice, [and Attendants].
+  Dog. Is our whole dissembly appear'd?
+  Dog. Marry, that am I and my partner.
+  Dog. Yea, marry, let them come before me. What is your name,
+    friend?
+  Dog. Pray write down Borachio. Yours, sirrah?
+  Dog. Write down Master Gentleman Conrade. Masters, do you serve
+    God?
+  Dog. Write down that they hope they serve God; and write God first,  
+    for God defend but God should go before such villains! Masters,
+    it is proved already that you are little better than false
+    knaves, and it will go near to be thought so shortly. How answer
+    you for yourselves?
+  Dog. A marvellous witty fellow, I assure you; but I will go about
+    with him. Come you hither, sirrah. A word in your ear. Sir, I say
+    to you, it is thought you are false knaves.
+  Dog. Well, stand aside. Fore God, they are both in a tale.
+    Have you writ down that they are none?
+  Dog. Yea, marry, that's the eftest way. Let the watch come forth.
+    Masters, I charge you in the Prince's name accuse these men.
+  1. Watch. This man said, sir, that Don John the Prince's brother
+    was a villain.
+  Dog. Write down Prince John a villain. Why, this is flat perjury,
+    to call a prince's brother villain.
+  Dog. Write down Prince John a villain. Why, this is flat perjury,
+    to call a prince's brother villain.
+  Dog. Pray thee, fellow, peace. I do not like thy look, I promise
+    thee.
+  Dog. Flat burglary as ever was committed.
+  Dog. O villain! thou wilt be condemn'd into everlasting redemption
+    for this.
+  Dog. Come, let them be opinion'd.
+  Dog. God's my life, where's the sexton? Let him write down the
+    Prince's officer coxcomb. Come, bind them.--Thou naughty varlet!
+  Dog. Dost thou not suspect my place? Dost thou not suspect my
+    years? O that he were here to write me down an ass! But, masters,
+    remember that I am an ass. Though it be not written down, yet
+    forget not that I am an ass. No, thou villain, thou art full of
+    piety, as shall be prov'd upon thee by good witness. I am a wise
+    fellow; and which is more, an officer; and which is more, a
+    householder; and which is more, as pretty a piece of flesh as any
+    is in Messina, and one that knows the law, go to! and a rich
+    fellow enough, go to! and a fellow that hath had losses; and one
+    that hath two gowns and everything handsome about him. Bring him
+    away. O that I had been writ down an ass!
+                                                         Exeunt.
+ACT V. Scene I.
+The street, near Leonato's house.
+Enter Leonato and his brother [ Antonio].
+  Dog. Come you, sir. If justice cannot tame you, she shall ne'er
+    weigh more reasons in her balance. Nay, an you be a cursing
+    hypocrite once, you must be look'd to.
+  Dog. Marry, sir, they have committed false report; moreover, they  
+    have spoken untruths; secondarily, they are slanders; sixth and
+    lastly, they have belied a lady; thirdly, they have verified
+    unjust things; and to conclude, they are lying knaves.
+  Dog. Come, bring away the plaintiffs. By this time our sexton hath
+    reformed Signior Leonato of the matter. And, masters, do not
+    forget to specify, when time and place shall serve, that I am an
+    ass.
+  Dog. Moreover, sir, which indeed is not under white and black, this
+    plaintiff here, the offender, did call me ass. I beseech you let
+    it be rememb'red in his punishment. And also the watch heard them
+    talk of one Deformed. They say he wears a key in his ear, and a
+    lock hanging by it, and borrows money in God's name, the which he
+    hath us'd so long and never paid that now men grow hard-hearted
+    and will lend nothing for God's sake. Pray you examine him upon
+    that point.
+  Dog. Your worship speaks like a most thankful and reverent youth,
+    and I praise God for you.
+  Dog. God save the foundation!
+  Dog. I leave an arrant knave with your worship, which I beseech
+    your worship to correct yourself, for the example of others.
+    God keep your worship! I wish your worship well. God restore you
+    to health! I humbly give you leave to depart; and if a merry
+    meeting may be wish'd, God prohibit it! Come, neighbour.
+                                   Exeunt [Dogberry and Verges].

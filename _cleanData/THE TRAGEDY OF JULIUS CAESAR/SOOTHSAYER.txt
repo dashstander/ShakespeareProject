@@ -1,0 +1,19 @@
+  SOOTHSAYER. Caesar!
+  SOOTHSAYER. Beware the ides of March.
+  SOOTHSAYER. Beware the ides of March.
+  SOOTHSAYER. At mine own house, good lady.
+  SOOTHSAYER. About the ninth hour, lady.
+  SOOTHSAYER. Madam, not yet. I go to take my stand
+    To see him pass on to the Capitol.
+  SOOTHSAYER. That I have, lady. If it will please Caesar
+    To be so good to Caesar as to hear me,  
+    I shall beseech him to befriend himself.
+  SOOTHSAYER. None that I know will be, much that I fear may chance.
+    Good morrow to you. Here the street is narrow,
+    The throng that follows Caesar at the heels,
+    Of senators, of praetors, common suitors,
+    Will crowd a feeble man almost to death.
+    I'll get me to a place more void and there
+    Speak to great Caesar as he comes along.               Exit.
+  SOOTHSAYER. Ay, Caesar, but not gone.
+  A Hail, Caesar! Read this schedule.
